@@ -7,7 +7,8 @@ use ssh csci2340 to connect our VM server
 then `git clone https://github.com/ibiyemisi64/SENSE.git`
 
 
-***For iqsinv2***
+
+## For iqsinv2
 
 use command `cd SENSE` 
 
@@ -25,7 +26,8 @@ copy the uri "A" into the test.py in ip_address. Like ip_address="A"
 
 Then run test.py
 
-***For alds***
+
+## For alds
 
 **first step**
 
@@ -47,7 +49,7 @@ Use `flutter run` to run the alds part.
 
 You will get a uri at the bottom, it looks like http://127.0.0.1:9101?uri=http://127.0.0.1:33879/tSKGdVdGwKQ=/
 
-***second step***
+**second step**
 
 Open a new vm window, connect to our vm server.(do not close the first vm server window)
 
